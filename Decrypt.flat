@@ -1,0 +1,7 @@
+<flatfile version="1">
+   <file
+      path="D:\Programming\HackCUIII\Alteryx\Decrypt.txt"
+      eoltype="crlf"
+      />
+   <fields>
+      <field name="Concat_wordlist" type="V_WString"
